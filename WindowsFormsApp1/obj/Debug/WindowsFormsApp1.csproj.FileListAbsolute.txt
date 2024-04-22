@@ -1,0 +1,39 @@
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_TRANGCHU.resources
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_NHANKHAU.resources
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT.mdf
+D:\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT_log.ldf
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT.mdf
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT_log.ldf
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_NHANKHAU.resources
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_TRANGCHU.resources
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Tan\Desktop\DOANNHOMCNNP (1)\DOANNHOMCNNP\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT.mdf
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BANGDT_log.ldf
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_NHANKHAU.resources
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_TRANGCHU.resources
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\doannhom\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
